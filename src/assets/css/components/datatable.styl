@@ -1,0 +1,36 @@
+.datatable
+  width 100%
+  table-layout fixed
+  .thead-light
+    th
+      font-weight normal
+      color #8898aa
+      background-color var(--datatable-head-bg)
+      border-bottom 1px solid var(--datatable-border)
+      border-top 1px solid var(--datatable-border)
+      padding 0.8rem 1.5rem
+      margin 0
+      font-size 0.8rem
+      text-align right
+      white-space nowrap
+  tbody
+    font-size 0.9rem
+    tr
+      td
+        border-top 1px solid var(--datatable-border)
+        padding 0.6rem 1.5rem
+        white-space nowrap
+        text-overflow ellipsis
+        overflow hidden
+        &:last-child
+          overflow visible
+        @media (max-width: 1600px)
+          padding 0.6rem 0.725rem
+  tfoot
+    th
+      border-bottom 1px solid var(--datatable-border)
+      border-top 1px solid var(--datatable-border)
+      padding 0.8rem 1.5rem
+      margin 0
+      font-size 0.8rem
+      text-align right

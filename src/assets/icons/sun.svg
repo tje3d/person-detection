@@ -1,0 +1,15 @@
+<svg
+	viewBox="0 0 32 32"
+	fill="currentcolor"
+	stroke="currentcolor"
+	stroke-linecap="round"
+	stroke-linejoin="round"
+>
+	<path
+		fill="none"
+		stroke-width="2"
+		d="M16 2.5V6M16 26v3.5M6 6l3 3M23 23l3 3M3 16h3.5M26 16h3.5M6
+							26l3-3M23 9l3-3"
+	/>
+	<circle stroke="none" cx="16" cy="16" r="6" />
+</svg>

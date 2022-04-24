@@ -1,0 +1,20 @@
+<svg viewBox="0 0 512 512" fill="currentColor">
+	<path d="m0 121v270h512v-270zm482 240h-452v-210h452z" />
+	<path d="m61 181h30v30h-30z" />
+	<path d="m121 181h30v30h-30z" />
+	<path d="m181 181h30v30h-30z" />
+	<path d="m241 181h30v30h-30z" />
+	<path d="m301 181h30v30h-30z" />
+	<path d="m61 241h30v30h-30z" />
+	<path d="m121 241h30v30h-30z" />
+	<path d="m181 241h30v30h-30z" />
+	<path d="m241 241h30v30h-30z" />
+	<path d="m301 241h30v30h-30z" />
+	<path d="m361 241h30v30h-30z" />
+	<path d="m421 241h30v30h-30z" />
+	<path d="m61 301h30v30h-30z" />
+	<path d="m361 301h30v30h-30z" />
+	<path d="m421 301h30v30h-30z" />
+	<path d="m121 301h210v30h-210z" />
+	<path d="m361 181h90v30h-90z" />
+</svg>
